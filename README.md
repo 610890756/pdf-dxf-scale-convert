@@ -1,0 +1,1 @@
+将矢量PDF转cad文件，用cad自带的PDFimport功能将pdf转为cad文件，并调整正确比例
